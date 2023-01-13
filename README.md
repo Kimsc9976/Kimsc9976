@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 
 🔭 Education
 ---
+<경북대학교>
