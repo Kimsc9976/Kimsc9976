@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-squaree&logo=mysql&logoColor=white)
 
 
-🔭 Education
+📚 Education
+---
+`경북대학교`
+
+🗄️ Careers
 ---
 `경북대학교`
