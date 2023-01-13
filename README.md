@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+🛠 Tech Stack
+---
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-143055.svg?style=flat-square&logo=opencv&logoColor=white)
