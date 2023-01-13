@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 ![Nodejs](https://img.shields.io/badge/Nodejs-%339933.svg?style=flat-square&logo=Node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-squaree&logo=mysql&logoColor=white)
 
+
+🔭 Education
+---
