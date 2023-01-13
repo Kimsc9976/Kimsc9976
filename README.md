@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-///
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-%339933.svg?style=flat-square&logo=Node.js&logoColor=white)
 ![C](https://img.shields.io/badge/c-%23777BB4.svg?style=flat-squaree&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 <br>
-![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%39477F.svg?style=flat-square&logo=mysql&logoColor=white)
 
