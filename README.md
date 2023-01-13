@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/c-%23777BB4.svg?style=flat-squaree&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 <br>
-![MySQL](https://img.shields.io/badge/mysql-%39477F.svg?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 
