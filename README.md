@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-%339933.svg?style=flat-square&logo=Node.js&logoColor=white)
+![C](https://img.shields.io/badge/Nodejs-%A8B9CC.svg?style=flat-square&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/Nodejs-%00599C.svg?style=flat-square&logo=C++&logoColor=white)
