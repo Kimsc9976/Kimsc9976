@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/c-%23777BB4.svg?style=flat-squaree&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 <br>
-![OpenCV](https://img.shields.io/badge/opencv-%5C3EE8.svg?style=flat-square&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-143055.svg?style=flat-square&logo=opencv&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-squaree&logo=mysql&logoColor=white)
 
