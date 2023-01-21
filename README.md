@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 ---
 
 - 현대차 자율주행 챌린지 Virtual Track부문 참가
-- Delta Robot 구현
+- Delta Robot 개발
 - 특허출원 : 과속방지턱 시스템의 제어방법, 이를 수행하기 위한 기록매체 및 시스템
