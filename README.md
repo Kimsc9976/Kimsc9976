@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-squaree&logo=mysql&logoColor=white)
 
 
-![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kimsc9976&theme=github)
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kimsc9976&theme=github" width="30%" height="30%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kimsc9976&theme=github" width="30%" height="30%">
+![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kimsc9976&theme=github) <br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kimsc9976&theme=github" width="100%" height="100%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kimsc9976&theme=github" width="100%" height="100%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsc9976&hide=jupyter%20notebook" width="30%" height="30%">
 
 <br>
