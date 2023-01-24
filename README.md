@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 
 ![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kimsc9976&theme=github) <br>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kimsc9976&theme=github" width="100%" height="100%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kimsc9976&theme=github" width="100%" height="100%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kimsc9976&theme=github" width="45%" height="45%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kimsc9976&theme=github" width="45%" height="45%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsc9976&hide=jupyter%20notebook" width="30%" height="30%">
 
 <br>
