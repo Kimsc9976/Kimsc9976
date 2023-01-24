@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 - OCR을 이용한 문자열 해석
 - Camera를 이용한 물체 데이터 분석 및 해석
 - CNN를 이용한 사용자 감정 분류
-- 현대차 자율주행 챌린지 LKAS, AEB 부분 제작 
+- 현대차 자율주행 챌린지 LKAS, AEB 부분 제작 참여
 
 
 **Mechanical Engineering** <br>
