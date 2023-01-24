@@ -27,8 +27,10 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-squaree&logo=mysql&logoColor=white)
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsc9976)]
+![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kimsc9976&theme=github)
+![Top Lang Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kimsc9976&theme=github)
+![Top Langs_repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kimsc9976&theme=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsc9976&hide=jupternotebook)
 
 <br>
 
