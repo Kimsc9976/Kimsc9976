@@ -43,7 +43,8 @@ Here are some ideas to get you started:
 
 📚 Education
 ---
-`경북대학교` - 기계공학과 졸
+`경북대학교` - 기계공학과 졸 <br>
+`SSAFY` - 9기 수강 중
 
 
 🗄️ Careers 
@@ -54,7 +55,12 @@ Here are some ideas to get you started:
 
 💻 Activites
 ---
+**SoftWare Programming** <br>
 
+
+
+**Mechanical Engineering** <br>
 - 현대차 자율주행 챌린지 Virtual Track부문 참가
-- Delta Robot 개발
+- Delta Robot 제작
+- Dielectric Elastomer Generator 를 이용한 에너지 하베스팅 시스템 개발
 - 특허출원 : 과속방지턱 시스템의 제어방법, 이를 수행하기 위한 기록매체 및 시스템
