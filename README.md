@@ -28,7 +28,10 @@ Here are some ideas to get you started:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsc9976)]
+
+<br>
+
 📚 Education
 ---
 `경북대학교` - 기계공학과 졸
