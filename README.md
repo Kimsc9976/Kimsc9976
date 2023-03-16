@@ -20,13 +20,14 @@ Here are some ideas to get you started:
 **What I'm using now** <br>
 ![Nodejs](https://img.shields.io/badge/Nodejs-%339933.svg?style=flat-squaree&logo=Node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-squaree&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-squaree&logo=c%2B%2B&logoColor=white)
 
 **Had used** <br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-squaree&logo=PyTorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-143055.svg?style=flat-squaree&logo=opencv&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-squaree&logo=ubuntu&logoColor=white)
 ![C](https://img.shields.io/badge/c-%23777BB4.svg?style=flat-squaree&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-squaree&logo=c%2B%2B&logoColor=white)
+
 <br>
 
 **Used once** <br>
