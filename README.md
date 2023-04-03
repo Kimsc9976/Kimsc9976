@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsc9976&hide=jupyter%20notebook" width="24%" height="24%">
 -->
-<br>
+<br> 
 
 📚 Education
 ---
