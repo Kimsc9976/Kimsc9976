@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🛠 Tech Stack
----
+--- 
 
 **What I'm using now** <br>
 ![Nodejs](https://img.shields.io/badge/Nodejs-%339933.svg?style=flat-squaree&logo=Node.js&logoColor=white)
@@ -54,17 +54,30 @@ Here are some ideas to get you started:
 `가치소프트`
 
 
-💻 Activites
+💻 Activites - 하나씩 업데이트 중입니다..
 ---
 **SoftWare Programming** <br>
-- OCR을 이용한 문자열 해석
-- Camera를 이용한 물체 데이터 분석 및 해석
-- CNN를 이용한 사용자 감정 분류
-- 현대차 자율주행 챌린지 LKAS, AEB 부분 제작 참여
+|프로젝트|기간|
+|:---:|:---:|
+|[디스코드 클론 프로젝트 : WebRTC를 활용한 화상서버 제작](/Project/Ottogi/)|2022.12 ~ 2023.03|
+|CNN를 이용한 사용자 감정 분류|2022.09 ~ 2023.01|
+|OCR을 이용한 문자열 해석|2022.07 ~ 2022.08|
+|[Camera를 이용한 물체 데이터 분석 및 해석](/Project/gachi_soft_internship/)|2022.07 ~ 2022.08|
+|[현대차 자율주행 챌린지 LKAS, AEB 부분 제작 ](/Project/young_hyundai/)|2020.01 ~ 2020.09|
+
+
 
 
 **Mechanical Engineering** <br>
-- 현대차 자율주행 챌린지 Virtual Track부문 참가
-- Delta Robot 제작
-- Dielectric Elastomer Generator 를 이용한 에너지 하베스팅 시스템 개발
+|프로젝트|기간|
+|:---:|:---:|
+|DEG 를 이용한 에너지 하베스팅 시스템 개발|2022.01 ~ 2022.10|
+|OCR을 이용한 문자열 해석|2022.07 ~ 2022.08|
+|[현대차 자율주행 챌린지 LKAS, AEB 부분 제작 ](/Project/young_hyundai/)|2020.01 ~ 2020.09|
+|[Delta Robot 제작](/Project/Delta_robot/)|2020.03 ~ 2020.08|
+DEG = Dielectric Elastomer Generator의 약자
+
 - 특허출원 : 과속방지턱 시스템의 제어방법, 이를 수행하기 위한 기록매체 및 시스템
+
+
+
