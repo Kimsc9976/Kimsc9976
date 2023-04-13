@@ -56,17 +56,33 @@ Here are some ideas to get you started:
 <br> 
 
 </div>
+   
   
 📚 Education
 ---
-`경북대학교` - 기계공학과 졸 <br>
-`SSAFY` - 9기 수강 중
+`경북대학교 기계공학과` - 2016.03 ~ 2023.02 <br>
+`Smilegate Winter Dev.` - 2022.12 ~ 2023.02
+`SSAFY 9기` - 2023.01 ~ 
 
 
 🗄️ Careers 
 ---
-`경북대학교`
-`가치소프트`
+`경북대학교 AMBL LAB 학부연구생` - 2020.01 ~ 2022.12 <br>
+`가치소프트 인턴` - 2022.07 ~ 2022.08
+
+
+<table>
+  <tr>
+    <td rowspan="3">내용</td>
+    <td>내용</td>
+  </tr>
+  <tr>
+    <td>내용</td>
+  </tr>
+  <tr>
+    <td>내용</td>
+  </tr>
+</table>
 
 
 💻 Activites - 하나씩 업데이트 중입니다..
