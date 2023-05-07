@@ -86,37 +86,37 @@ Here are some ideas to get you started:
    <tbody>
      <tr id="SoftWare Programming">
        <td rowspan="4">SoftWare Programming</td>
-       <td><a href="/Project/Ottogi/">디스코드 클론 프로젝트 : WebRTC를 활용한 화상서버 제작</a></td>
-       <td>2022.12 ~ 2023.03</td>
+       <td><a href="/Project/young_hyundai/">현대차 자율주행 챌린지 LKAS, AEB 부분 제작</a></td>
+       <td>2020.01 ~ 2020.09</td>
      </tr>
      <tr>
        <td>OCR을 이용한 문자열 해석</td>
        <td>2022.07 ~ 2022.08</td>
      </tr>
      <tr>
-        <td><a href="/Project/young_hyundai/">현대차 자율주행 챌린지 LKAS, AEB 부분 제작</a></td>
-       <td>2020.01 ~ 2020.09</td>
-     </tr>
-     <tr>
        <td>CNN를 이용한 사용자 감정 분류</td>
        <td>2022.09 ~ 2023.01</td>
      </tr>
+     <tr>       
+       <td><a href="/Project/Ottogi/">디스코드 클론 프로젝트 : WebRTC를 활용한 화상서버 제작</a></td>
+       <td>2022.12 ~ 2023.03</td>
+     </tr>
      <tr id="Mechanical Engineering">
        <td rowspan="5">Mechanical Engineering</td>
+       <td><a href="/Project/young_hyundai/">현대차 자율주행 챌린지 LKAS, AEB 부분 제작</a></td>
+       <td>2020.01 ~ 2020.09</td>
+     </tr>
+     <tr>
+        <td><a href="/Project/Delta_robot/">Delta Robot 제작</a></td>
+       <td>2020.03 ~ 2020.08</td>
+     </tr>
+     <tr>
        <td>*DEG 를 이용한 에너지 하베스팅 시스템 개발</td>
        <td>2022.01 ~ 2022.10</td>
      </tr>
      <tr>
        <td>OCR을 이용한 문자열 해석</td>
        <td>2022.07 ~ 2022.08</td>
-     </tr>
-     <tr>
-        <td><a href="/Project/young_hyundai/">현대차 자율주행 챌린지 LKAS, AEB 부분 제작</a></td>
-       <td>2020.01 ~ 2020.09</td>
-     </tr>
-     <tr>
-        <td><a href="/Project/Delta_robot/">Delta Robot 제작</a></td>
-       <td>2020.03 ~ 2020.08</td>
      </tr>
      <tr>
          <td colspan="4">
