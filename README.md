@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 📚 Education
 ---
 `경북대학교 기계공학과` - 2016.03 ~ 2023.02 <br>
-`Smilegate Winter Dev.` - 2022.12 ~ 2023.02
+`Smilegate Winter Dev.` - 2022.12 ~ 2023.02 <
 `SSAFY 9기` - 2023.01 ~ 
 
 
