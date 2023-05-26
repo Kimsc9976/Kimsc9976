@@ -85,7 +85,7 @@ Here are some ideas to get you started:
    </thead>
    <tbody>
      <tr id="SoftWare Programming">
-       <td rowspan="4">SoftWare Programming</td>
+       <td rowspan="5">SoftWare Programming</td>
        <td><a href="/Project/young_hyundai/">현대차 자율주행 챌린지 LKAS, AEB 부분 제작</a></td>
        <td>2020.01 ~ 2020.09</td>
      </tr>
@@ -100,6 +100,10 @@ Here are some ideas to get you started:
      <tr>       
        <td><a href="/Project/Ottogi/">디스코드 클론 프로젝트 : WebRTC를 활용한 화상서버 제작</a></td>
        <td>2022.12 ~ 2023.03</td>
+     </tr>
+     <tr>       
+       <td><a href="https://github.com/SSAFY-Fianl-PJT/SSAFY-Final-PJT">넷플릭스 클론 프로젝트 : <br>캐시 및 코사인 유사도를 바탕으로 한 추천알고리즘 제작<br>프론트엔드 메인페이지 및 로그인페이지 제작 </a></td>
+       <td>2023.05 ~ 2023.05</td>
      </tr>
      <tr id="Mechanical Engineering">
        <td rowspan="5">Mechanical Engineering</td>
