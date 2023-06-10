@@ -87,7 +87,7 @@ Here are some ideas to get you started:
      <tr id="SoftWare Programming">
        <td rowspan="5">SoftWare Programming</td>
        <td><a href="/Project/young_hyundai/">현대차 자율주행 챌린지 LKAS, AEB 부분 제작</a></td>
-       <td>2020.01 ~ 2020.09</td>
+       <td>2020.10 ~ 2021.03</td>
      </tr>
      <tr>
        <td>OCR을 이용한 문자열 해석</td>
@@ -108,7 +108,7 @@ Here are some ideas to get you started:
      <tr id="Mechanical Engineering">
        <td rowspan="5">Mechanical Engineering</td>
        <td><a href="/Project/young_hyundai/">현대차 자율주행 챌린지 LKAS, AEB 부분 제작</a></td>
-       <td>2020.01 ~ 2020.09</td>
+       <td>2020.10 ~ 2021.03</td>
      </tr>
      <tr>
         <td><a href="/Project/Delta_robot/">Delta Robot 제작</a></td>
