@@ -112,7 +112,7 @@ Here are some ideas to get you started:
      </tr>
      <tr>
         <td><a href="/Project/Delta_robot/">Delta Robot 제작</a></td>
-       <td>2020.03 ~ 2020.08</td>
+       <td>2020.03 ~ 2020.10</td>
      </tr>
      <tr>
        <td>*DEG 를 이용한 에너지 하베스팅 시스템 개발</td>
