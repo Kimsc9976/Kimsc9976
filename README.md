@@ -81,46 +81,56 @@ Here are some ideas to get you started:
        <td>분야</td>
        <td>프로젝트</td>
        <td>기간</td>
+       <td>맡은 역할</td>
      </tr>
    </thead>
    <tbody>
      <tr id="SoftWare Programming">
        <td rowspan="5">SoftWare Programming</td>
-       <td><a href="/Project/young_hyundai/">현대차 자율주행 챌린지 LKAS, AEB 부분 제작</a></td>
+       <td><a href="/Project/young_hyundai/">현대차 자율주행 챌린지</a></td>
        <td>2020.10 ~ 2021.03</td>
+       <td> LKAS, AEB 부분 제작</td>
      </tr>
      <tr>
        <td>OCR을 이용한 문자열 해석</td>
        <td>2022.07 ~ 2022.08</td>
+       <td>우편물 분류 시스템의 주소지 분류 작업</td>
      </tr>
      <tr>
        <td>CNN를 이용한 사용자 감정 분류</td>
        <td>2022.09 ~ 2023.01</td>
+       <td>Subject 대상으로 뇌파 및 실제 느낀점 비교</td>
      </tr>
      <tr>       
-       <td><a href="/Project/Ottogi/">디스코드 클론 프로젝트 : WebRTC를 활용한 화상서버 제작</a></td>
+       <td><a href="/Project/Ottogi/">디스코드 클론 프로젝트</a></td>
        <td>2022.12 ~ 2023.03</td>
+        <td>WebRTC를 활용한 화상서버 제작</td>
      </tr>
      <tr>       
-       <td><a href="https://github.com/SSAFY-Fianl-PJT/SSAFY-Final-PJT">영화 추천서비스 : <br>캐시 및 코사인 유사도를 바탕으로 한 추천알고리즘 제작<br>프론트엔드 메인페이지 및 로그인페이지 제작 </a></td>
+       <td><a href="https://github.com/SSAFY-Fianl-PJT/SSAFY-Final-PJT">영화 추천서비스 : SSAFY 1학기 프로젝트 최우수상 </a></td>
        <td>2023.05 ~ 2023.05</td>
+        <td>캐시 및 코사인 유사도를 바탕으로 한 추천알고리즘 제작<br>프론트엔드 메인페이지 및 로그인페이지 제작 </td>
      </tr>
      <tr id="Mechanical Engineering">
        <td rowspan="5">Mechanical Engineering</td>
-       <td><a href="/Project/young_hyundai/">현대차 자율주행 챌린지 LKAS, AEB 부분 제작</a></td>
+       <td><a href="/Project/young_hyundai/">현대차 자율주행 챌린지</a></td>
        <td>2020.10 ~ 2021.03</td>
+        <td> LKAS, AEB 부분 제작</td>
      </tr>
      <tr>
         <td><a href="/Project/Delta_robot/">Delta Robot 제작</a></td>
        <td>2020.03 ~ 2020.10</td>
+        <td> 기구학 및 역기구학을 활용한 구동암 각도 제어</td>
      </tr>
      <tr>
        <td>*DEG 를 이용한 에너지 하베스팅 시스템 개발</td>
        <td>2022.01 ~ 2022.10</td>
+       <td>회로 구성 및 에너지 하베스터 제작</td>
      </tr>
      <tr>
        <td>OCR을 이용한 문자열 해석</td>
        <td>2022.07 ~ 2022.08</td>
+       <td>OCR을 이용한 Captcha 문자열 해석</td>
      </tr>
      <tr>
          <td colspan="4">
