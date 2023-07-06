@@ -25,8 +25,10 @@ Here are some ideas to get you started:
 
 **Language** <br>
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-squaree&logo=javascript&logoColor=black)
+![typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-squaree&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-squaree&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-squaree&logo=c%2B%2B&logoColor=white)
+<br/>
 ![html5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-squaree&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-squaree&logo=css3&logoColor=white)
 
@@ -34,16 +36,21 @@ Here are some ideas to get you started:
 **Development Framework** <br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-squaree&logo=PyTorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/openCV-143055.svg?style=flat-squaree&logo=opencv&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000.svg?style=flat-squaree&logo=express&logoColor=white)
 ![django](https://img.shields.io/badge/django-092E20.svg?style=flat-squaree&logo=django&logoColor=white)
+<br/>
+![Express](https://img.shields.io/badge/Express-000000.svg?style=flat-squaree&logo=express&logoColor=white)
+![Nextjs](https://img.shields.io/badge/Nextjs-ffffff.svg?style=flat-squaree&logo=nextdotjs&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat-squaree&logo=React&logoColor=black)
 
 **Database** <br>
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-squaree&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=flat-squaree&logo=MariaDB&logoColor=white)
 
 **OS** <br>
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-squaree&logo=ubuntu&logoColor=white)
 ![windows11](https://img.shields.io/badge/Windows-0078D4?style=flat-squaree&logo=windows11&logoColor=white)
 ![raspberrypi](https://img.shields.io/badge/RaspberryPi-A22846?style=flat-squaree&logo=raspberrypi&logoColor=white)
+![arduino](https://img.shields.io/badge/arduino-00979D?style=flat-squaree&logo=arduino&logoColor=white)
 
 <div align="center">
 
