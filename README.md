@@ -37,15 +37,17 @@ Here are some ideas to get you started:
    <br>![django](https://img.shields.io/badge/django-092E20.svg?style=flat-squaree&logo=django&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000.svg?style=flat-squaree&logo=express&logoColor=white)
 ![Nextjs](https://img.shields.io/badge/Nextjs-ffffff.svg?style=flat-squaree&logo=nextdotjs&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat-squaree&logo=React&logoColor=black)
 - 머신러닝 : 
    <br>![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-squaree&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat-squaree&logo=TensorFlow&logoColor=white)
 - 비전 :
    <br>![OpenCV](https://img.shields.io/badge/openCV-143055.svg?style=flat-squaree&logo=opencv&logoColor=white)
+- 프론트 찍먹 :
+![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?style=flat-squaree&logo=vuedotjs&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat-squaree&logo=React&logoColor=black)
   
 **Database** <br>
-- ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-squaree&logo=mysql&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-squaree&logo=mysql&logoColor=white&textColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=flat-squaree&logo=MariaDB&logoColor=white)
 
 **OS** <br>
