@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - 비전 :
    <br>![OpenCV](https://img.shields.io/badge/openCV-143055.svg?style=flat-squaree&logo=opencv&logoColor=white)
 - 프론트 찍먹 :
-![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?style=flat-squaree&logo=vuedotjs&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?style=flat-squaree&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat-squaree&logo=React&logoColor=black)
   
 **Database** <br>
