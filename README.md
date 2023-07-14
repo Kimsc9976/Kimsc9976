@@ -42,12 +42,12 @@ Here are some ideas to get you started:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat-squaree&logo=TensorFlow&logoColor=white)
 - 비전 :
    <br>![OpenCV](https://img.shields.io/badge/openCV-143055.svg?style=flat-squaree&logo=opencv&logoColor=white)
-- 프론트 잠깐.. :
-   ![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?style=flat-squaree&logo=vuedotjs&logoColor=white)
+- 프론트 잠깐.. :<br>
+![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?style=flat-squaree&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat-squaree&logo=React&logoColor=black)
   
 **Database** <br>
-- ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-squaree&logo=mysql&logoColor=white&textColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-squaree&logo=mysql&logoColor=white&textColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=flat-squaree&logo=MariaDB&logoColor=white)
 
 **OS** <br>
