@@ -87,8 +87,11 @@ Here are some ideas to get you started:
 ---
 `경북대학교 AMBL LAB 학부연구생` - 2020.01 ~ 2022.12 <br>
 `가치소프트 인턴` - 2022.07 ~ 2022.08 <br>
-`SSAFY 1학기 프로젝트 최우수상` - 2023.05<br>
-`SSAFY 주최 자율주행 대회 1등 수상` - 2023.07
+`SSAFY 1학기 공통 프로젝트 최우수상` - 2023.05 <br>
+`SSAFY 주최 자율주행 대회 - 기본 주행 부문 3위` - 2023.05 ~ 2023.07 <br>
+`SSAFY 주최 자율주행 대회 - 장애물 회피 부문 2위` - 2023.05 ~ 2023.07 <br>
+`SSAFY 주최 자율주행 대회 - 최종 종합 부문 1위` - 2023.05 ~ 2023.07 <br>
+
 
 💻 Activites - 하나씩 업데이트 중입니다..
 ---
@@ -189,6 +192,33 @@ Here are some ideas to get you started:
 |OCR을 이용한 문자열 해석|2022.07 ~ 2022.08|
 |[현대차 자율주행 챌린지 LKAS, AEB 부분 제작 ](/Project/young_hyundai/)|2020.01 ~ 2020.09|
 |[Delta Robot 제작](/Project/Delta_robot/)|2020.03 ~ 2020.08|
+
+
+
+<table>
+   <tr>
+      <td> 
+        <a href="https://github.com/SSAFY-Fianl-PJT/SSAFY-Final-PJT"> SSAFY 1학기 공통 프로젝트 </a> <br>- 2023.05 <br> 
+      </td>
+      <td>
+         외부 데이터 및 User데이터를 활용한 영화 추천서비스
+      </td>
+      <td> 최우수상 </td>
+   </tr>
+  <tr id="SSAFY_RACE">
+    <td rowspan="3">SSAFY 주최 자율주행 시뮬레이션 대회<br> - 2023.07 </td>
+    <td>기본 주행 분야[Path Planning] </td>
+    <td>3 위</td>
+  </tr     
+  <tr>
+    <td>장애물 회피 분야[Local Path Planning]</td>
+    <td>2 위</td>
+  </tr>
+  <tr>
+    <td>최종 종합 부분</td>
+    <td>1 위</td>
+  </tr>
+</table>
 
  -->
 
