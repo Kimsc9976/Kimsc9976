@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ![Express](https://img.shields.io/badge/Express-000000.svg?style=flat-squaree&logo=express&logoColor=white)
 ![Nextjs](https://img.shields.io/badge/Nextjs-ffffff.svg?style=flat-squaree&logo=nextdotjs&logoColor=black)
 ![django](https://img.shields.io/badge/django-092E20.svg?style=flat-squaree&logo=django&logoColor=white)
-- 머신러닝 : 
+- ML & AI : 
    <br>![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-squaree&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat-squaree&logo=TensorFlow&logoColor=white)
 - 비전 :
