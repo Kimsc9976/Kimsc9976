@@ -82,6 +82,8 @@ Here are some ideas to get you started:
 `Smilegate Winter Dev.` - 2022.12 ~ 2023.02 <br>
 `SSAFY 9기` - 2023.01 ~ 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tncks097)](https://solved.ac/tncks097/)
+
 
 🗄️ Careers 
 ---
