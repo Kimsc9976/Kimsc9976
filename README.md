@@ -81,9 +81,12 @@ Here are some ideas to get you started:
 `경북대학교 기계공학과` - 2016.03 ~ 2023.02 <br>
 `Smilegate Winter Dev.` - 2022.12 ~ 2023.02 <br>
 `SSAFY 9기` - 2023.01 ~ 2023.12 <br>
-
+`백준 티어`<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tncks097)](https://solved.ac/tncks097/)
 
+🎓 Certificate 
+---
+`PCCP` - 코딩전문역량인증시험 Lv3 (2023.12.17)
 
 🗄️ Careers 
 ---
