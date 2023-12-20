@@ -24,13 +24,14 @@ Here are some ideas to get you started:
 --- 
 
 **Language**<br>
-- ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-squaree&logo=javascript&logoColor=black)
-![typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-squaree&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-squaree&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-squaree&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-squaree&logo=c%2B%2B&logoColor=white)
+<br>
 ![html5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-squaree&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-squaree&logo=css3&logoColor=white)
-
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-squaree&logo=javascript&logoColor=black)
+![typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-squaree&logo=typescript&logoColor=white)
 
 **Technical Skills & Technologies** <br>
 - 웹 개발 :<br>
