@@ -28,24 +28,12 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-squaree&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-squaree&logo=c%2B%2B&logoColor=white)
 <br>
-![html5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-squaree&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-squaree&logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-squaree&logo=javascript&logoColor=black)
-![typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-squaree&logo=typescript&logoColor=white)
 
 **Technical Skills & Technologies** <br>
 - 웹 개발 :<br>
 ![Express](https://img.shields.io/badge/Express-000000.svg?style=flat-squaree&logo=express&logoColor=white)
 ![Nextjs](https://img.shields.io/badge/Nextjs-ffffff.svg?style=flat-squaree&logo=nextdotjs&logoColor=black)
 ![django](https://img.shields.io/badge/django-092E20.svg?style=flat-squaree&logo=django&logoColor=white)
-- ML & AI : 
-   <br>![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-squaree&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat-squaree&logo=TensorFlow&logoColor=white)
-- 비전 :
-   <br>![OpenCV](https://img.shields.io/badge/openCV-143055.svg?style=flat-squaree&logo=opencv&logoColor=white)
-- 프론트 잠깐.. :<br>
-![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?style=flat-squaree&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat-squaree&logo=React&logoColor=black)
   
 **Database** <br>
 - ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-squaree&logo=mysql&logoColor=white&textColor=white)
@@ -76,27 +64,24 @@ Here are some ideas to get you started:
 
 </div>
    
-  
-📚 Education
+
+🗄️ Careers 
 ---
-`경북대학교 기계공학과` - 2016.03 ~ 2023.02 <br>
-`Smilegate Winter Dev.` - 2022.12 ~ 2023.02 <br>
-`SSAFY 9기` - 2023.01 ~ 2023.12 <br>
-`백준 알고리즘 티어`<br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tncks097)](https://solved.ac/tncks097/)
+`뉴빌리티 QA` - 2024.01 ~
+`가치소프트 인턴` - 2022.07 ~ 2022.08 <br>
+`경북대학교 AMBL LAB 학부연구생` - 2020.01 ~ 2022.12 <br>
 
 🎓 Certificate 
 ---
 `PCCP` - 코딩전문역량인증시험 Lv3 (2023.12.17)
 
-🗄️ Careers 
+📚 Education
 ---
-`경북대학교 AMBL LAB 학부연구생` - 2020.01 ~ 2022.12 <br>
-`가치소프트 인턴` - 2022.07 ~ 2022.08 <br>
-<a href="https://github.com/SSAFY-Fianl-PJT/SSAFY-Final-PJT">`SSAFY 1학기 프로젝트 - [사용자 및 외부데이터를 활용한 영화 추천 서비스] 최우수상`</a> - 2023.05 <br>
-<a href="https://github.com/SSA92/SSA92">`SSAFY 주최 자율주행 시뮬레이션 대회 - 종합 1등`</a> - 2023.05 ~ 2023.07 <br>
-
-
+`SSAFY 9기` - 2023.01 ~ 2023.12 <br>
+`Smilegate Winter Dev.` - 2022.12 ~ 2023.02 <br>
+`경북대학교 기계공학과` - 2016.03 ~ 2023.02 <br>
+`백준 알고리즘 티어`<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tncks097)](https://solved.ac/tncks097/)
 
 💻 Activites - 하나씩 업데이트 중입니다..
 ---
