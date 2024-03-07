@@ -20,6 +20,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🗄️ Careers 
+---
+`뉴빌리티 QA` - 2024.01 ~
+`가치소프트 인턴` - 2022.07 ~ 2022.08 <br>
+`경북대학교 AMBL LAB 학부연구생` - 2020.01 ~ 2022.12 <br>
+
+🎓 Certificate 
+---
+`PCCP` - 코딩전문역량인증시험 Lv3 (2023.12.17)
+
 🛠 Tech Stack
 --- 
 
@@ -64,16 +75,6 @@ Here are some ideas to get you started:
 
 </div>
    
-
-🗄️ Careers 
----
-`뉴빌리티 QA` - 2024.01 ~
-`가치소프트 인턴` - 2022.07 ~ 2022.08 <br>
-`경북대학교 AMBL LAB 학부연구생` - 2020.01 ~ 2022.12 <br>
-
-🎓 Certificate 
----
-`PCCP` - 코딩전문역량인증시험 Lv3 (2023.12.17)
 
 📚 Education
 ---
