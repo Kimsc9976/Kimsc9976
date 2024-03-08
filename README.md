@@ -1,9 +1,11 @@
-### Hi there 👋
+### ✨완성도 있는 제품을 위해 고민하는 사람✨
 
 <!-- ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-squaree&logo=javascript&logoColor=black)
 <a href="연결하고싶은링크"><img src="https://img.shields.io/badge/뱃지이름-뱃지색상?style=flat-square&logo=로고이미지이름&logoColor=white&link=연결하고싶은링크"/></a>  -->
+<!-- <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-squaree&logo=instagram&logoColor=white"/> -->
 
-<img src="https://img.shields.io/badge/instagram-E4405F?style=flat-squaree&logo=instagram&logoColor=white"/> <a href="mailto:tncks097@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-squaree&logo=gmail&logoColor=white&link=mailto:tncks097@gmail.com"/></a>
+<a href="mailto:tncks097@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-squaree&logo=gmail&logoColor=white&link=mailto:tncks097@gmail.com"/></a>
+<a href="mailto:tncks097@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-squaree&logo=Naver&logoColor=white&link=mailto:tncks097@naver.com"/></a>
 
 
 <!--
@@ -23,38 +25,52 @@ Here are some ideas to get you started:
 
 🗄️ Careers 
 ---
-`뉴빌리티 QA` - 2024.01 ~
+`뉴빌리티 QA 인턴` - 2024.01 ~ <br>
 `가치소프트 인턴` - 2022.07 ~ 2022.08 <br>
 `경북대학교 AMBL LAB 학부연구생` - 2020.01 ~ 2022.12 <br>
+`윈시스태영 블라인드팀 대리` - 2017.07 ~ 20219.12 <br>
+
 
 🎓 Certificate 
 ---
-`PCCP` - 코딩전문역량인증시험 Lv3 (2023.12.17)
+`PCCP` - 코딩전문역량인증시험 Lv3 (2023.12.17)<br>
+`OPIc` - 외국어말하기평가 IH (2023.11.09)
 
 🛠 Tech Stack
 --- 
 
 **Language**<br>
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-squaree&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-squaree&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-squaree&logo=c%2B%2B&logoColor=white)
+[사용 중] : ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-squaree&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-squaree&logo=python&logoColor=white) 
+<br>[공부 중] : ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-squaree&logo=c%2B%2B&logoColor=white)
+
 <br>
 
 **Technical Skills & Technologies** <br>
 - 웹 개발 :<br>
-![Express](https://img.shields.io/badge/Express-000000.svg?style=flat-squaree&logo=express&logoColor=white)
-![Nextjs](https://img.shields.io/badge/Nextjs-ffffff.svg?style=flat-squaree&logo=nextdotjs&logoColor=black)
+![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-squaree&logo=Spring&logoColor=white)
 ![django](https://img.shields.io/badge/django-092E20.svg?style=flat-squaree&logo=django&logoColor=white)
-  
+
+- 프론트 잠깐.. :<br>
+![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?style=flat-squaree&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat-squaree&logo=React&logoColor=black)
+
 **Database** <br>
 - ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-squaree&logo=mysql&logoColor=white&textColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=flat-squaree&logo=MariaDB&logoColor=white)
 
-**OS** <br>
-- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-squaree&logo=ubuntu&logoColor=white)
+**개발 환경** <br>
+-웹 :<br>
 ![windows11](https://img.shields.io/badge/Windows-0078D4?style=flat-squaree&logo=windows11&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_EC2-FF990F?style=flat-squaree&logo=amazonec2&logoColor=white)
+
+-임베디드 : <br>
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-squaree&logo=ubuntu&logoColor=white)
+![ros](https://img.shields.io/badge/ROS-22314E?style=flat-squaree&logo=ros&logoColor=white)
 ![raspberrypi](https://img.shields.io/badge/RaspberryPi-A22846?style=flat-squaree&logo=raspberrypi&logoColor=white)
-![arduino](https://img.shields.io/badge/arduino-00979D?style=flat-squaree&logo=arduino&logoColor=white)
+
+
+
 
 <div align="center">
 
