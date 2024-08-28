@@ -40,8 +40,7 @@ Here are some ideas to get you started:
 --- 
 
 **Language**<br>
-[사용 중] : ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-squaree&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-squaree&logo=python&logoColor=white) 
+[사용 중] : ![Python](https://img.shields.io/badge/python-3670A0?style=flat-squaree&logo=python&logoColor=white) 
 <br>[공부 중] : ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-squaree&logo=c%2B%2B&logoColor=white)
 
 <br>
@@ -50,10 +49,6 @@ Here are some ideas to get you started:
 - 웹 개발 :<br>
 ![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-squaree&logo=Spring&logoColor=white)
 ![django](https://img.shields.io/badge/django-092E20.svg?style=flat-squaree&logo=django&logoColor=white)
-
-- 프론트 잠깐.. :<br>
-![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?style=flat-squaree&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat-squaree&logo=React&logoColor=black)
 
 **Database** <br>
 - ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-squaree&logo=mysql&logoColor=white&textColor=white)
