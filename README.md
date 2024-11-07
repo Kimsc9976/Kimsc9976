@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 🎓 Certificate 
 ---
 `PCCP` - 코딩전문역량인증시험 Lv3 (2023.12.17)<br>
-`OPIc` - 외국어말하기평가 IH (2023.11.09)
+`OPIc` - 외국어말하기평가 IH (2023.11.09)<br>
+`ISTQB` - SW Testing Level CTFL (2024.11.07)
 
 🛠 Tech Stack
 --- 
