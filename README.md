@@ -23,10 +23,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 🗄️ Careers 
 ---
 `뉴빌리티 QA ` - 2024.01 ~ <br>
-`가치소프트 인턴` - 2022.07 ~ 2022.08 <br>
+`가치소프트 개발1팀 인턴` - 2022.07 ~ 2022.08 <br>
 `경북대학교 AMBL LAB 학부연구생` - 2020.01 ~ 2022.12 <br>
 `윈시스태영 블라인드팀 대리` - 2017.07 ~ 2021.12 <br>
 
@@ -37,23 +38,29 @@ Here are some ideas to get you started:
 `OPIc` - 외국어말하기평가 IH (2023.11.09)<br>
 `ISTQB` - SW Testing Level CTFL (2024.11.07)
 
+📚 Education
+---
+`SSAFY 9기` - 2023.01 ~ 2023.12 <br>
+`Smilegate Winter Dev.` - 2022.12 ~ 2023.02 <br>
+`경북대학교 기계공학과` - 2016.03 ~ 2023.02 <br>
+`백준 알고리즘 티어` -- [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=tncks097)](https://solved.ac/tncks097) <br>
+
+
 🛠 Tech Stack
 --- 
 
 **Language**<br>
-[사용 중] : ![Python](https://img.shields.io/badge/python-3670A0?style=flat-squaree&logo=python&logoColor=white) 
-<br>[공부 중] : ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-squaree&logo=c%2B%2B&logoColor=white)
+[Main] : ![Python](https://img.shields.io/badge/python-3670A0?style=flat-squaree&logo=python&logoColor=white) 
+<br>[Sub] : ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-squaree&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-squaree&logo=openjdk&logoColor=white)
 
 <br>
 
 **Technical Skills & Technologies** <br>
-- 웹 개발 :<br>
-![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-squaree&logo=Spring&logoColor=white)
+![pyQT](https://img.shields.io/badge/-PyQt-004400?style=flat&logo=Qt)
 ![django](https://img.shields.io/badge/django-092E20.svg?style=flat-squaree&logo=django&logoColor=white)
-
-**Database** <br>
-- ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-squaree&logo=mysql&logoColor=white&textColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=flat-squaree&logo=MariaDB&logoColor=white)
+![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-squaree&logo=Spring&logoColor=white)
 
 **개발 환경** <br>
 -웹 :<br>
@@ -88,13 +95,7 @@ Here are some ideas to get you started:
 </div>
    
 
-📚 Education
----
-`SSAFY 9기` - 2023.01 ~ 2023.12 <br>
-`Smilegate Winter Dev.` - 2022.12 ~ 2023.02 <br>
-`경북대학교 기계공학과` - 2016.03 ~ 2023.02 <br>
-`백준 알고리즘 티어`<br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tncks097)](https://solved.ac/tncks097/)
+
 
 💻 Activites - 하나씩 업데이트 중입니다..
 ---
