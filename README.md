@@ -73,15 +73,12 @@ Here are some ideas to get you started:
 ![ros](https://img.shields.io/badge/ROS-22314E?style=flat-squaree&logo=ros&logoColor=white)
 ![raspberrypi](https://img.shields.io/badge/RaspberryPi-A22846?style=flat-squaree&logo=raspberrypi&logoColor=white)
 
-
-
-
+---
 <div align="center">
 
 ![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kimsc9976&theme=github) <br>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kimsc9976&theme=github" width="35%" height="35%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kimsc9976&theme=github" width="35%" height="35%">
 <!--
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kimsc9976&theme=github" width="30%" height="35%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsc9976&hide=jupyter%20notebook" width="24%" height="24%">
 -->
 <!--
@@ -91,8 +88,6 @@ Here are some ideas to get you started:
  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kimsc9976/Kimsc9976/output/github-contribution-grid-snake.svg">
 </picture>
 -->
-<br> 
-
 </div>
    
 
