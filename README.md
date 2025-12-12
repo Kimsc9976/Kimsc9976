@@ -53,13 +53,12 @@ Here are some ideas to get you started:
 
 **Language**<br>
 [Main] : ![Python](https://img.shields.io/badge/python-3670A0?style=flat-squaree&logo=python&logoColor=white) 
-<br>[Sub] : ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-squaree&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-squaree&logo=openjdk&logoColor=white)
+<br>[Sub] : ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-squaree&logo=javascript&logoColor=black)
 
 <br>
 
 **Technical Skills & Technologies** <br>
-![pyQT](https://img.shields.io/badge/-PyQt-004400?style=flat&logo=Qt)
+![pyQT](https://img.shields.io/badge/-Qt-004400?style=flat&logo=Qt)
 ![django](https://img.shields.io/badge/django-092E20.svg?style=flat-squaree&logo=django&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/Node.js-5FA04E?style=flat-squaree&logo=nodedotjs&logoColor=white)
 
