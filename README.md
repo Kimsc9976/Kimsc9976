@@ -61,15 +61,14 @@ Here are some ideas to get you started:
 **Technical Skills & Technologies** <br>
 ![pyQT](https://img.shields.io/badge/-PyQt-004400?style=flat&logo=Qt)
 ![django](https://img.shields.io/badge/django-092E20.svg?style=flat-squaree&logo=django&logoColor=white)
-![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-squaree&logo=Spring&logoColor=white)
+![NodeJs](https://img.shields.io/badge/Node.js-5FA04E?style=flat-squaree&logo=nodedotjs&logoColor=white)
 
 **개발 환경** <br>
 -웹 :<br>
 ![windows11](https://img.shields.io/badge/Windows-0078D4?style=flat-squaree&logo=windows11&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_EC2-FF990F?style=flat-squaree&logo=amazonec2&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-squaree&logo=ubuntu&logoColor=white)
 
 -임베디드 : <br>
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-squaree&logo=ubuntu&logoColor=white)
 ![ros](https://img.shields.io/badge/ROS-22314E?style=flat-squaree&logo=ros&logoColor=white)
 ![raspberrypi](https://img.shields.io/badge/RaspberryPi-A22846?style=flat-squaree&logo=raspberrypi&logoColor=white)
 
